@@ -1,7 +1,7 @@
 import { OrderStatus } from '../protocols/order-status'
 import { Messaging } from '../services/messaging'
 import { Persistency } from '../services/persistency'
-import { Cart } from '../services/SRP-cart'
+import { Cart } from './SRP-cart'
 
 class Order {
   private _orderStatus: OrderStatus = 'open'
