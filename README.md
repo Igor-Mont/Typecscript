@@ -3,7 +3,8 @@
 ## Single Responsibility Principle (SRP)
 
 ### "A class should have one, and only one, reason to change"
-  - Readability
-  - Ease of evolution
-  - Coupling reduction
-  - Clean and testable code
+
+## Open-Closed Principle (OCP)
+
+### “Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.”
+
